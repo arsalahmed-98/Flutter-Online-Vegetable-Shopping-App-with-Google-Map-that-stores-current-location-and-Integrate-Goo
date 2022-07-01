@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "764859206478",
+    "project_id": "allinonestore-4ca40",
+    "storage_bucket": "allinonestore-4ca40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764859206478:android:37ff2fd011b4cc88262c1f",
+        "android_client_info": {
+          "package_name": "com.example.allinonestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764859206478-o5h1e1kj0cdbiad8hrapivoe3urmbapb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allinonestore",
+            "certificate_hash": "13ae059c98e1aaf617927081e22583f2f53c3c0e"
+          }
+        },
+        {
+          "client_id": "764859206478-ag0hjmjhtdeg4ae2ioldoctjo18obvb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbIa6BV9trHOe87E_C-lbuc5YR9AlsaEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764859206478-ag0hjmjhtdeg4ae2ioldoctjo18obvb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
